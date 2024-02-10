@@ -1,0 +1,181 @@
+Dependencies for Project 'Project19', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6210000::V6.21::ARMCLANG
+F (.\main.c)(0x65A65A86)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/main.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.16.0\Board\Board_Buttons.h)(0x5D1463BA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.16.0\Board\Board_Joystick.h)(0x5D1463BA)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.hipen1768_LCD.h\CD_ILI9325.h)(0x00000000)
+I (asciiLib.h\:\Keil_v5\ARM\ARMCLANG\include\string.hLP_Open1768.h)(0x00000000)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x656A1282)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_USART.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_Common.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.hRotes.hSt45db041x.h)(0x00000000)
+I (spi_master.h)(0x657B1CA0)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_SPI.h)(0x626FAD4E)
+F (.\asciiLib.c)(0x656E23A4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/asciilib.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x656A1282)
+F (.\LCD_ILI9325.c)(0x656E23A4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/lcd_ili9325.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+F (.\Open1768_LCD.c)(0x656E23A4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/open1768_lcd.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.heCD_ILI9325.h)(0x00000000)
+F (.\TP_Open1768.c)(0x656E23A4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/tp_open1768.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\lpc17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x656A1282)
+F (.\asciiLib.h)(0x656E23A4)()
+F (.\LCD_ILI9325.h)(0x656E23A4)()
+F (.\Open1768_LCD.h)(0x656E23A4)()
+F (.\TP_Open1768.h)(0x656E23A4)()
+F (.\notes.h)(0x658DD26F)()
+F (.\at45db041x.c)(0x658DCEBE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/at45db041x.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x656A1282)
+F (.\spi_master.c)(0x658DCE2E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/spi_master.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_SPI.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_Common.h)(0x626FAD4E)
+F (.\at45db041x.h)(0x657B1B82)()
+F (.\spi_master.h)(0x657B1CA0)()
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Boards/Waveshare/Open1768/Common/Buttons_Open1768.c)(0x657AFAF0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/buttons_open1768.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPIO_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.16.0\Board\Board_Buttons.h)(0x5D1463BA)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Boards/Waveshare/Open1768/Common/Joystick_Open1768.c)(0x657AFAF0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/joystick_open1768.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPIO_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.16.0\Board\Board_Joystick.h)(0x5D1463BA)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver/SPI_LPC17xx.c)(0x657AFAF3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/spi_lpc17xx.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\SPI_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_SPI.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_Common.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x656A1282)
+I (RTE\Device\LPC1768\RTE_Device.h\TE\_Target_1\RTE_Components.h)(0x00000000)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPIO_LPC17xx.h)(0x657AFAF3)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver/UART_LPC17xx.c)(0x657AFAF3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/uart_lpc17xx.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\UART_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_USART.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include\Driver_Common.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x656A1282)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPDMA_LPC17xx.h)(0x657AFAF3)
+I (RTE\Device\LPC1768\RTE_Device.hmTE\_Target_1\RTE_Components.h)(0x00000000)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver/GPDMA_LPC17xx.c)(0x657AFAF3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/gpdma_lpc17xx.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPDMA_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver/GPIO_LPC17xx.c)(0x657AFAF3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/gpio_lpc17xx.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\GPIO_LPC17xx.h)(0x657AFAF3)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+F (C:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver/PIN_LPC17xx.c)(0x657AFAF3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/pin_lpc17xx.o -MD)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver\PIN_LPC17xx.h)(0x657AFAF3)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x656A1282)
+F (RTE/Device/LPC1768/RTE_Device.h)(0x65782D0B)()
+F (RTE/Device/LPC1768/startup_LPC17xx.s)(0x659D0DB4)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --diag_suppress=A1950W-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Driver\Include-IC:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include-IC:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\RTE_Driver-IC:\Users\wewek\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.16.0\Board--pd "__UVISION_VERSION SETA 539"--pd "_RTE_ SETA 1"--pd "LPC175x_6x SETA 1"--pd "_RTE_ SETA 1"--list .\listings\startup_lpc17xx.lst--xref -o .\objects\startup_lpc17xx.o--depend .\objects\startup_lpc17xx.d)
+F (RTE/Device/LPC1768/system_LPC17xx.c)(0x656E23A6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/LPC1768-I./RTE/_Target_1-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Driver/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/Device/Include-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/LPC1700_DFP/2.6.1/RTE_Driver-IC:/Users/wewek/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board-D__UVISION_VERSION="539" -D_RTE_ -DLPC175x_6x -D_RTE_ -DLCD_ILI9325-o ./objects/system_lpc17xx.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x656A1282)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\LPC17xx.h)(0x657AFAF2)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\wewek\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.1\Device\Include\system_LPC17xx.h)(0x657AFAF2)
