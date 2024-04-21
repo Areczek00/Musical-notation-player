@@ -5,4 +5,4 @@ After writing a track, user may play it. User interface is implemented with a LC
 The project is written for Open1768 development board. Project was written in Polish language and for a Polish customer.
 
 General description of the project is available in file 'Musical Notation Player — documentation and description.pdf'.
-A simple presentation of the musical pieces being played are in videos 'Presentation no 1.mp4' and 'Presentation no 2.mp4'.
+A simple presentation of the musical pieces being played are in videos linked from 'Presentations.txt'.
